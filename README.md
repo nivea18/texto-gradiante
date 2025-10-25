@@ -1,5 +1,5 @@
 @supports (background-clip: text) or (-webkit-background-clip: text) {
-    .gradient-text {
+    .gradient-text {    #aqui é uma classe, mas pode ser h1 por exemplo 
         font-size: 3rem; /* ajuste como quiser */
         font-weight: bold;
         background-image: linear-gradient(
